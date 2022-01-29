@@ -8,7 +8,7 @@ import AnimalPage from "./pages/AnimalPage/AnimalPage";
 import { ApolloClient, InMemoryCache, ApolloProvider } from "@apollo/client";
 
 const client = new ApolloClient({
-  uri: "http://localhost:4000/",
+  uri: "https://joke-wild-animals-graphql-api.herokuapp.com/",
   cache: new InMemoryCache(),
 });
 
