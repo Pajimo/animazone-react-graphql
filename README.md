@@ -30,4 +30,4 @@ and it is currently hosted on Heroku : https://joke-wild-animals-graphql-api.her
 #
 #
 Note: THis is just a fun project basically for learning apis, graphql, apollo, and their combination with react. 
-it was created from scratch as a code along with Laith Harb . Github profile: https://github.com/harblaith7
+it was created from scratch as a code along with Laith Harb from his youtube channel graphql course. Github profile: https://github.com/harblaith7
